@@ -1,0 +1,13 @@
+Timestamp,IP,Port,Mode,CommandType,Message,Response
+2025-08-02 00:31:30,192.168.10.1,8889,single,raw,takeoff,TIMEOUT - Cevap gelmedi.
+2025-08-02 00:31:56,192.168.10.1,8889,single,json,"""takeoff""",TIMEOUT - Cevap gelmedi.
+2025-08-02 00:31:59,192.168.10.1,8889,single,json,"""takeoff""",TIMEOUT - Cevap gelmedi.
+2025-08-02 00:32:02,192.168.10.1,8889,single,json,"""takeoff""",TIMEOUT - Cevap gelmedi.
+2025-08-02 00:32:05,192.168.10.1,8889,single,json,"""takeoff""",TIMEOUT - Cevap gelmedi.
+2025-08-02 00:32:10,192.168.10.1,8889,single,raw,takeoff,TIMEOUT - Cevap gelmedi.
+2025-08-03 06:51:14,192.168.10.1,8889,single,raw,takeoff,TIMEOUT - Cevap gelmedi.
+2025-08-05 21:31:03,192.168.10.1,8889,single,raw,"""slm""",TIMEOUT - Cevap gelmedi.
+2025-08-06 21:50:26,192.168.10.1,8889,single,raw,takeoff,TIMEOUT - Cevap gelmedi.
+2025-08-06 22:16:16,192.168.10.1,9000,single,json,"""takeoff""",TIMEOUT - Cevap gelmedi.
+2025-08-06 22:16:46,192.168.10.1,8889,single,raw,takeoff,TIMEOUT - Cevap gelmedi.
+2025-08-06 22:17:47,192.168.10.1,8889,single,raw,takeoff,TIMEOUT - Cevap gelmedi.
